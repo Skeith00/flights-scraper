@@ -1,6 +1,6 @@
 # Flight Scraper
 
-Foobar is a Python project to webscrap flights sites
+Flight Scraper is a Python project to webscrap flights sites
 
 ## Installation
 
